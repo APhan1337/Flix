@@ -19,7 +19,8 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 ### App Walkthough GIF
 
-<img src="http://g.recordit.co/jDlW9EfAK9.gif" width=250><br>
+<!--<img src="http://g.recordit.co/jDlW9EfAK9.gif" width=250><br>-->
+<img src="http://g.recordit.co/cqRBJpjjwU.gif" width=250><br>
 
 ### Notes
 The challenges I faced while building this app was mainly installing cocoapods on the university machines since it requires administrative permission. I was able to work around by reading through forums and a lot of trial and error with the terminal commands. Other than that, building that app was simple enough, though I need to better understand Swift and API logistics.
